@@ -13,6 +13,7 @@
 <li>🤖 Mechatronics Technician Certification (technical high school). </li>
 <li>💻 Backend skills in Javascript, Python, C++, C# and Java.</li>
 <li>🚀 Frontend skills in React, Tailwind CSS and Vite.</li>
+<li>💡 Currently learning Dart and Flutter.</li>
 <li>📱 Looking for a mobile app development specialization.</li>
 <li>🔋 Experience in electronics, embedded systems and Arduino development.</li>
 <li>🔭 Working in side projects as I improve my software development skills.</li>
@@ -46,6 +47,10 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
 
+### 👉 Mobile Development
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ### 👉 Software & Tools
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
@@ -57,6 +62,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
 [![Docsify](https://img.shields.io/badge/Docsify-2ECE53?style=for-the-badge&logo=docsify&logoColor=fff)](#)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=fff)](#)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
@@ -64,3 +70,6 @@
 ## 📊 GitHub stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=yahirsaavedra" /> <img src="https://github-readme-stats.vercel.app/api?username=yahirsaavedra&show_icons=true" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahirsaavedra&layout=pie" /></p>
+
+## Contact
+If you wish to contact me o, please send me
