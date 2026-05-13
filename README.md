@@ -11,10 +11,9 @@
 <li>🗣 Pronouns: He/They.</li>
 <li>⚡ Hobbies: Highly interested in drawing, animation, 3D printing/modeling, gaming, music and language learning (linguistics).</li>
 <li>🤖 Mechatronics Technician Certification (technical high school). </li>
-<li>💻 Backend skills in Javascript, Python, C++, C# and Java.</li>
-<li>🚀 Frontend skills in React, Tailwind CSS and Vite.</li>
-<li>💡 Currently learning Dart, Flutter and WLanguage (PC SOFT's WINDEV technology).</li>
-<li>📱 Looking for a mobile app development specialization.</li>
+<li>💻 Backend skills in TypeScript, Python, C++, C# and Java.</li>
+<li>🚀 Frontend skills in React, Tailwind CSS, Flutter and Vite.</li>
+<li>📱 Mobile app development specialization.</li>
 <li>🔋 Experience in electronics, embedded systems and Arduino development.</li>
 <li>🔭 Working in side projects as I improve my software development skills.</li>
 </ul>
