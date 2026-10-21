@@ -1,6 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yahir!</h1>
-<p align="center"><i><small>The H is silent ;) -> yuh-ear / [ʝaˈiɾ]</small></i></p>
-<h4 align="center">Computer Systems Engineer degree student</h4>
+<h4 align="center">Computer Systems Engineer</h4>
 <hr>
 
 ## 😊 About me
@@ -9,7 +8,6 @@
 
 <ul>
 <li>🗣 Pronouns: He/They.</li>
-<li>⚡ Hobbies: Highly interested in drawing, animation, 3D printing/modeling, gaming, music and language learning (linguistics).</li>
 <li>🤖 Mechatronics Technician Certification (technical high school). </li>
 <li>💻 Backend skills in TypeScript, Python, C++, C# and Java.</li>
 <li>🚀 Frontend skills in React, Tailwind CSS, Flutter and Vite.</li>
